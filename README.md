@@ -23,4 +23,6 @@ Deep learning:
 Use extra data (Casia web face)
 https://github.com/AlfredXiangWu/face_verification_experiment
 https://github.com/happynear/FaceVerification
+
+http://cmusatyalab.github.io/openface/models-and-accuracies/
 ~~~
