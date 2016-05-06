@@ -10,7 +10,12 @@ http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html
 Help for parsing
 https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/datasets/lfw.py
 
+Long term goal is to rewrite matlab toolbox code to python code
+http://www.briancbecker.com/blog/research/pubfig83-lfw-dataset/
+~~~
 
+Other:
+~~~
 Fisher Vector Face
 https://www.robots.ox.ac.uk/~vgg/software/face_desc/
 
