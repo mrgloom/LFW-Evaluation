@@ -14,6 +14,11 @@ Long term goal is to rewrite matlab toolbox code to python code
 http://www.briancbecker.com/blog/research/pubfig83-lfw-dataset/
 ~~~
 
+About task:
+~~~
+https://github.com/dribnet/lfw_fuel
+~~~
+
 Other:
 ~~~
 Fisher Vector Face
