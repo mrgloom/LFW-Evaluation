@@ -14,6 +14,8 @@ https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/datasets/lfw.py
 Fisher Vector Face
 https://www.robots.ox.ac.uk/~vgg/software/face_desc/
 
+Deep learning:
 Use extra data (Casia web face)
 https://github.com/AlfredXiangWu/face_verification_experiment
+https://github.com/happynear/FaceVerification
 ~~~
