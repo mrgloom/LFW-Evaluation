@@ -21,6 +21,7 @@ Additional data:
 http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/
 http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 http://vision.seas.harvard.edu/pubfig83/
+http://www.robots.ox.ac.uk/~vgg/data/vgg_face/
 
 https://www.cs.tau.ac.il/~wolf/ytfaces/
 ~~~
