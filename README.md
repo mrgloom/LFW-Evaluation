@@ -5,6 +5,9 @@ Solving problem as embedding problem:
 ~~~
 1. "Learning a Similarity Metric Discriminatively, with Application to Face Verification"
 http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
+
+2. "Deep Face Recognition"
+http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
 ~~~
 
 Solving problem as multiclass classification problem:
@@ -14,6 +17,9 @@ https://arxiv.org/pdf/1501.04690v1.pdf
 
 2. "Deep Learning Face Representation from Predicting 10,000 Classes"
 http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf
+
+3. "Deep Face Recognition" 
+http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
 ~~~
 
 Additional data:
