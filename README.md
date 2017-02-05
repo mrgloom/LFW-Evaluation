@@ -33,3 +33,27 @@ http://cmusatyalab.github.io/openface/models-and-accuracies/
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
 
 ~~~
+
+~~~
+Deep learning papers:
+
+Solving problem as embedding problem:
+
+1. "Learning a Similarity Metric Discriminatively, with Application to Face Verification"
+http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
+
+Solving problem as multiclass classification problem:
+
+1. "Naive-Deep Face Recognition: Touching the Limit of LFW Benchmark or Not?"
+https://arxiv.org/pdf/1501.04690v1.pdf
+
+2. "Deep Learning Face Representation from Predicting 10,000 Classes"
+http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf
+~~~
+
+
+~~~
+Additional data:
+http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/
+http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+~~~
