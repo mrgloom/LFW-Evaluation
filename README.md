@@ -33,6 +33,11 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 https://www.cs.tau.ac.il/~wolf/ytfaces/
 ~~~
 
+Code:
+~~~
+Tensorflow
+https://github.com/davidsandberg/facenet
+~~~
 
 TODO:
 ~~~
