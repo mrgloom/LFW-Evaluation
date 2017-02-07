@@ -22,7 +22,7 @@ http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf
 http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
 ~~~
 
-Additional data:
+Datasets:
 ~~~
 http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/
 http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
