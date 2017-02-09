@@ -35,9 +35,12 @@ https://www.cs.tau.ac.il/~wolf/ytfaces/
 
 Code:
 ~~~
-Tensorflow
+Tensorflow:
 https://github.com/davidsandberg/facenet
 https://github.com/happynear/FaceVerification
+
+Caffe:
+https://github.com/ydwen/caffe-face
 ~~~
 
 TODO:
