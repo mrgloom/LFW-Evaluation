@@ -37,6 +37,7 @@ Code:
 ~~~
 Tensorflow
 https://github.com/davidsandberg/facenet
+https://github.com/happynear/FaceVerification
 ~~~
 
 TODO:
