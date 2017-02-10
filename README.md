@@ -36,6 +36,7 @@ http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 http://vision.seas.harvard.edu/pubfig83/
 http://www.robots.ox.ac.uk/~vgg/data/vgg_face/
 https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
+http://www.kinfacew.com/
 
 https://www.cs.tau.ac.il/~wolf/ytfaces/
 ~~~
