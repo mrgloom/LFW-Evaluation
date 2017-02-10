@@ -48,6 +48,7 @@ https://github.com/davidsandberg/facenet
 Caffe:
 https://github.com/happynear/FaceVerification
 https://github.com/ydwen/caffe-face
+https://github.com/AlfredXiangWu/face_verification_experiment
 ~~~
 
 TODO:
@@ -65,10 +66,6 @@ http://www.briancbecker.com/blog/research/pubfig83-lfw-dataset/
 
 Fisher Vector Face
 https://www.robots.ox.ac.uk/~vgg/software/face_desc/
-
-Deep learning:
-Use extra data (Casia web face)
-https://github.com/AlfredXiangWu/face_verification_experiment
 
 http://cmusatyalab.github.io/openface/models-and-accuracies/
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
