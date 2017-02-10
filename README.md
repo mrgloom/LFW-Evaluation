@@ -1,8 +1,11 @@
+`WORK IN PROGRESS`
+
 # LFW-Evaluation
  Evaluation of Labeled Faces in the Wild (LFW Face Database).
 
 Solving problem as embedding problem:
 ~~~
+
 1. "Learning a Similarity Metric Discriminatively, with Application to Face Verification"
 http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf
 
@@ -12,14 +15,18 @@ http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
 
 Solving problem as multiclass classification problem:
 ~~~
+
 1. "Naive-Deep Face Recognition: Touching the Limit of LFW Benchmark or Not?"
 https://arxiv.org/pdf/1501.04690v1.pdf
 
 2. "Deep Learning Face Representation from Predicting 10,000 Classes"
 http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf
 
-3. "Deep Face Recognition" 
+3. "Deep Face Recognition"
 http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf
+
+4. "A Discriminative Feature Learning Approach for Deep Face Recognition" [softmax loss + center loss]
+http://ydwen.github.io/papers/WenECCV16.pdf
 ~~~
 
 Datasets:
@@ -37,9 +44,9 @@ Code:
 ~~~
 Tensorflow:
 https://github.com/davidsandberg/facenet
-https://github.com/happynear/FaceVerification
 
 Caffe:
+https://github.com/happynear/FaceVerification
 https://github.com/ydwen/caffe-face
 ~~~
 
@@ -62,7 +69,6 @@ https://www.robots.ox.ac.uk/~vgg/software/face_desc/
 Deep learning:
 Use extra data (Casia web face)
 https://github.com/AlfredXiangWu/face_verification_experiment
-https://github.com/happynear/FaceVerification
 
 http://cmusatyalab.github.io/openface/models-and-accuracies/
 http://www.robots.ox.ac.uk/~vgg/software/vgg_face/
