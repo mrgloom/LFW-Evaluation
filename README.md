@@ -54,6 +54,9 @@ https://github.com/AlfredXiangWu/face_verification_experiment
 
 TODO:
 ~~~
+Add to list:
+https://github.com/betars/Face-Resources
+
 Rework this sklearn example 
 http://scikit-learn.org/stable/auto_examples/applications/face_recognition.html
 
