@@ -54,6 +54,8 @@ https://github.com/AlfredXiangWu/face_verification_experiment
 
 TODO:
 ~~~
+https://github.com/ageitgey/face_recognition
+
 Add to list:
 https://github.com/betars/Face-Resources
 
